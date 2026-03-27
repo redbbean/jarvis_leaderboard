@@ -1,0 +1,10 @@
+{
+  "model_name": "GPT-OSS-120B (0-shot)",
+  "project_url": "https://huggingface.co/openai/gpt-oss-120b",
+  "team_name": "AtomGPTLab",
+  "date_submitted": "2026-03-27",
+  "author_email": "your-email@example.com",
+  "software_used": "AtomGPT API, Python 3.11",
+  "hardware_used": "Unknown",
+  "time_taken_seconds": 0
+}
